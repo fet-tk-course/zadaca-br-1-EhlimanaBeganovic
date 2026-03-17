@@ -9,7 +9,10 @@ Ime i prezime: Ehlimana Beganović
 
 GitHub username: @EhlimanaBeganovic
 
----
+## Uvod
+
+Student sam Fakulteta elektrotehnike u Tuzli. Trenutno učim Git i GitHub. Želim stvoriti sposobnosti za razvoj softvera.
+
 
 ## Opis zadatka
 
